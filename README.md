@@ -12,17 +12,6 @@ A responsive restaurant landing page built using **HTML, CSS, JavaScript, and Bo
 - Contact form
 - Footer
 
-## 📂 Structure
-restaurant_landing_page/
-│
-├── index.html
-├── README.md
-├── css/
-│ └── custom.css
-├── js/
-│ └── main.js
-└── assets/
-   └── images/ (empty → add hero.jpg, about.jpg, gallery1.jpg, etc.)
 
 
 ## ⚡ Run
